@@ -1,0 +1,61 @@
+######################################################################### 
+# Temperature/Resistance characteristics for Bosch 0 280 130 026
+#########################################################################
+#
+# MIT License
+#
+# Copyright (c) 2019 eharvester
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+#
+#########################################################################
+#
+# These values were measured on 2019-10-13
+# with FLUKE 289 multimeter and MC9808 digital temperature sensor in oil bath
+#
+# Temperature/C Resistance/Ohm
+-15	11210.46
+-10	8571.14
+-5	6848.33
+0	5084.05
+5	4439.14
+10	3624.67
+15	2957.38
+20	2450.26
+25	2033.04
+30	1702.03
+35	1423.02
+40	1195.59
+45	1003.66
+50	859.31
+55	748.46
+60	609.84
+65	541.33
+70	449.61
+75	394.24
+80	352.26
+85	308.82
+90	270.38
+95	236.89
+100	208.94
+105	182.53
+110	161.69
+115	141.90
+120	127.51
+125	113.88

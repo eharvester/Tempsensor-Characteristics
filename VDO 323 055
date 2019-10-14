@@ -1,0 +1,61 @@
+######################################################################### 
+# Temperature/Resistance characteristics for VDO 323 055
+#########################################################################
+#
+# MIT License
+#
+# Copyright (c) 2019 eharvester
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+#
+#########################################################################
+#
+# These values were measured on 2019-10-12
+# with FLUKE 289 multimeter and MC9808 digital temperature sensor in oil bath
+#
+# Temperature/C Resistance/Ohm
+-15	6758.05
+-10	5224.59
+-5	4026.50
+0	3133.27
+5	2450.23
+10	1958.02
+15	1568.43
+20	1256.57
+25	1015.41
+30	830.00
+35	678.05
+40	597.66
+45	463.87
+50	382.65
+55	318.45
+60	271.65
+65	224.15
+70	187.65
+75	163.51
+80	138.97
+85	117.38
+90	103.11
+95	89.12
+100	76.68
+105	68.27
+110	57.76
+115	51.16
+120	45.56
+125	40.20
