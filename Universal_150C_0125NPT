@@ -1,0 +1,63 @@
+#########################################################################
+# Temperature/Resistance characteristics for Universal 150C 0.125NPT
+#########################################################################
+#
+# MIT License
+#
+# Copyright (c) 2019 eharvester
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+#
+#########################################################################
+#
+# These values were measured on 2019-11-22
+# with FLUKE 289 multimeter and MC9808 digital temperature sensor in oil bath
+#
+# Temperature/C Resistance/Ohm
+-25	23062.50
+-20	17125.47
+-15	13301.19
+-10	10399.26
+-5	8560.04
+0	7001.12
+5	5749.54
+10	4766.81
+15	3997.83
+20	3350.07
+25	2917.86
+30	2432.56
+35	1838.87
+40	1437.50
+45	1139.78
+50	939.12
+55	760.36
+60	645.25
+65	551.45
+70	458.79
+75	384.28
+80	322.21
+85	270.92
+90	231.45
+95	201.67
+100	172.08
+105	147.15
+110	126.65
+115	108.54
+120	97.06
+125	86.19
